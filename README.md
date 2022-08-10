@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/siberianMan13/hexlet-ci-app/workflows/CI/badge.svg)](https://github.com/LyudmilaMaksimova/hexlet-ci-app/actions/workflows/setup.yml)
+[![Build Status](https://github.com/LyudmilaMaksimova/hexlet-ci-app/workflows/CI/badge.svg)](https://github.com/LyudmilaMaksimova/hexlet-ci-app/actions/workflows/setup.yml)
 
 # Example app for CI Hexlet course
 
